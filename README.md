@@ -4,7 +4,9 @@
 --- | --- |
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+sh           2 hrs 10 mins   ███████████████████████▓░   94.71 % 
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 <!--END_SECTION:waka-->
 
