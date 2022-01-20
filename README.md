@@ -1,6 +1,9 @@
 
 ### 하이 👋
 [![warpdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=warpdev&show_icons=true&theme=vue-dark)](#) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warpdev&theme=dark)](#)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=warp26)](https://solved.ac/{handle})
 --- | --- |
 <!--START_SECTION:waka-->
 ```text
