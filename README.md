@@ -1,7 +1,7 @@
 
 ### 하이 👋
 [![warpdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=warpdev&show_icons=true&theme=vue-dark)](#) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=warpdev&theme=dark)](#)
-
+--- | --- |
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 39 mins   ███████████████▒░░░░░░░░░   61.02 % 
