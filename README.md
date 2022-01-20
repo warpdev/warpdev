@@ -4,7 +4,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=warp26)](https://solved.ac/{handle})
---- | --- |
 <!--START_SECTION:waka-->
 ```text
 JavaScript   9 hrs 39 mins   ███████████████▒░░░░░░░░░   61.02 % 
