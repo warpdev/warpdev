@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       24 hrs 36 mins  ███████████████████████░░   91.62 %
-JavaScript       1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-JSON             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-yarn.lock        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Image (svg)      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript       22 hrs 55 mins  █████████████████████░░░░   84.26 %
+JSON             2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+JavaScript       1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+TSConfig         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+SourceMap        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
