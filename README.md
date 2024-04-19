@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       23 hrs 10 mins  ██████████████████████▓░░   91.18 %
-JSON             1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-JavaScript       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-.env file        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TypeScript       26 hrs 34 mins  ████████████████████████░   96.53 %
+JSON             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+JavaScript       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+.env file        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
