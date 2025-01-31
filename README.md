@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       3 hrs 32 mins   █████████████████████████   99.95 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
