@@ -5,10 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 24 mins   ██████████████████████▒░░   89.56 %
-SQL        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Dart       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
