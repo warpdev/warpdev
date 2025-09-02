@@ -5,11 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          12 hrs 45 mins  ███████████████▓░░░░░░░░░   62.52 %
-Bash                1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Markdown            1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-.env file           1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Docker              1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+TypeScript          11 hrs 26 mins  █████████████▓░░░░░░░░░░░   54.19 %
+Bash                3 hrs 4 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+.env file           2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Shell Script        1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Docker              1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
